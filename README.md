@@ -1,2 +1,3 @@
-# awesome-datasets-espanol
-Datasets En Español
+# Datasets En Español
+Repositorios de Datasets en Español.
+
